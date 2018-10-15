@@ -1,2 +1,3 @@
 # Desappstre-Factory-Pattern
-Implementación del patrón de software Factory
+
+Código que acompaña al artículo sobre el patrón de software Factory en [desappstre.com](http://desappstre.com)
